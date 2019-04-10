@@ -1,0 +1,1382 @@
+
+      
+         
+            
+            
+            CATO TRANSLATED Grammatically; Directing for vnderstanding, construing, parsing, making, and proouing the same Latine: and so for continuall practice of the Grammaticall Analysis and Genesis.
+            
+            Done for the good of Schooles, and of all desirous to recouer, or keep that which they got in the GRAMMARSCHOOLE, or to increase therein.
+            
+            
+            AT LONDON, Printed by H. L. for Thomas Man, 1612.
+         
+         
+            
+            
+            TO MY REVErend and worthy Brother, Mr. Doctour HALL.
+            
+               THe wise Marchant, that after long trauel vvith much searching and aduenturing, dooth thinke that he hath found som rich treasure, although he doe much reioyce in it, yet will not trust himself; but will vse all meanes of trial of it, by the most skilfull and expert, before he will aduenture his
+
+estate, vpon an vncertaine commodity, or offer any way to vent the same. Blame mee not then (my reuerend and dearest Brother) if after triall of this kinde of translation, by my selfe and others, I craue of you to bee in stead of many, for bringing it vnto the touch; to trie, whether it be in all things, according to the worth, which I haue conceiued of it, for carrying-on the little ones in so plaine and so pleasant a way to all good learning. For, whom can I finde more meet then your selfe? And first, in regard of that right noble Hope, to whom I haue Dedicated my first assay in this kinde, being as yet vnable to iugde thereof; considering your louingest affection so duely and publikely testified to that honorable House. Secondlie, in regard
+
+of the generall sort, to whom you haue not more approued your loue, in your painfull and woorthy labours, then they in their glad imbracing of the same. And for me, Who hath euer witnessed more true and sound affection, first in comforting and supporting your faithfullest sister, in that her long and weary combat of so many yeeres together, against the manifolde terrours, assaults and tortures of the bloody Enemy? and that not only priuately by your tenderest Letters, but publikelie in that most sweet Epistle, which hath been for the comfort of many a fainting soule. Wherein, you did not leaue her destitute of your brotherlie consolations, vntill the Lord who strengthned her, to be faithfull vnto the death, had
+
+vouchsafed vnto her a most glorious victorie; and translating her into his throne, from all the malice of the Dragon, gaue vnto her the Crowne of life. Also for mine owne selfe, sith, as I haue acquainted you, and some other of chiefe note and place, with all my Schoole-trauells, from the time that I thus sette my selfe more earnestlie vnto them, so with this kinde of Grammaticall translation in particular, from my verie first entring into them; and more speciallie of late with the controuersie concerning the same: so that you are fulli
+                  •
+                able to satisfie any, as I hope; and by your wisedome to compose it in peace. That th
+                  •
+               re may bee still a ioynt vnion in this labour, which I trust will proue so profitable
+
+to all. And moreouer, for that you haue not refused to put-to your helping hand to the vvorke, perusing, and adding some of your owne experiments; and haue also seene some little triall of my beginnings, and by all meanes incouraged mee heerevnto. Lastlie, for that you haue now vouch
+                  •
+               afed to grace my weake indeuours, with your louing though vndeserued testimonie. VVherefore, my kindest Brother, as you haue witnessed all this loue; so let mee intreate you especially, amongst others, in these and all other my studies for our poore Coun
+                  •
+               reyschooles, to help (as your greater occasions shall permit) to seuer all the drosse, that nothing may remaine, but onelie
+
+that vvhich is pure and will abide the touch; That in the ende, that which is approoued maie come footh as the gold, vvhich hath seuen times passed the fier. The Latine Commentarie of Corderius, which I latelie mett withall, hath much confirmed mee in the course; though the English translation, ioyned to it, doth verie oft translate the exposition, not the text. Notwithstanding, Feare least I should deceiue my selfe or any other, or least I should faint in the way, leauing the work vndone, together with the good experience of your tender loue, so carefullie supporting me, and so brotherlie censuring and directing in such mildenesse, and also accepting my willingnesse, makes me thus to presume.
+
+The fruit, I trust, shall be for yours, amongst others. And in this hope, that you will esteem of so meane a gift, according to mine affection, not the worke, I commend it vnto your loue, and to the blessing of our most wise and holy GOD whose it is; remaining euer,
+            
+               Your thankfull though vnworthiest Brother, I. B.
+            
+         
+         
+            
+            
+            TO THE IVDIcicus Reader.
+            
+               LEarned Reader, if you perceiue the benefit of this kinde of translating, help louingly to amend vvhat is amisse. Future editions (God willing) shall supply what is wanting, and bring to more perfection.
+            
+               To the Learner.
+               1. B
+                     •
+                   carefull firs
+                     •
+                   to be ready in the Grounds of your Accidence and Grammar, at least to haue the perfect vnderstanding
+
+of them; and to bee very cunning in the examples of Nounes and Verbes, also to haue very readily the Rule of construing. For your better direction heerein, see the questions of the Accidence and Grammar, called The Posing of the Parts, gathered of purpose to help thereto.
+               2. In vsing these translations, labour euer, first, to vnderstand fully the matter of euery sentence which you would construe, by oft reading ouer the English, to get it (as it were) without book.
+               3 Then learne to construe the Latin according to the rule of construing, vsing the book where you doubt, and to the end to goe surely and speedily.
+               4 Next, to parse as you construe, being helped by the Latin and English together.
+               
+                  5. After, trie to construe and parse out of the English alone, looking only on it: whereby you continually make Latin.
+               6. Lastly, prooue whether by oft reading-ouer the Latin out of the English (first, according to the order of the translation; after, according to the order of the Authour) both Latin and matter will not most speedily bee made your owne.
+            
+            Vnderstand the matter perfectly; and the Latin will flow most easily, as of the owne accord.
+         
+         
+            For the vse of this Book, see the Grammar-schoole, Chap. 8. in the manner, vse and benefits of Grammaticall translations.
+         
+      
+      
+         
+            
+            
+            A most elegant little Book, which is 
+               called. 
+               intituled [or named] Cato, 
+               of the precepts of the common course of life. concerning the Precepts of common life, 
+                  Erasmus Roterdame being correctour. 
+               Erasmus of Roterdame 
+               corrected, and expounded by Erasmus.
+                being correctour and interpretour, [or expounder.]
+            
+               A The fore-speech, or speech set before the book. Preface with most short Precepts.
+               
+                  Whereas I did obserue, or perceiue. 
+                  
+                     BEcause I did marke very many [men] 
+                  to offend greatly. 
+                  to erre grieuously 
+                  in their manner or order of liuing. 
+                  in the way of maners, 
+                  I haue 
+                        •
+                     dged it meet, or thought good. 
+                  I haue thought to helpe and 
+                  to prouide for. 
+                  to consult for [or to haue a regard vnto] 
+                  their weakness, or errour. 
+                  the opinions of those [men] 
+                  chiefly. 
+                  especially that they might liue 
+                  commendably, or with commendation. 
+                  gloriously, and might 
+                  come to. 
+                  attaine to honour.
+                  
+                  Now therefore. 
+                  Now (my most dear son) I will teach thee 
+                  
+                     
+                        •
+                     fter what manner, or in what so
+                        •
+                     t., by what manner [or how] thou maiest, 
+                  or
+                        •
+                     er or fashion, thy manners. 
+                  compose [or frame] the manners of thy minde. Therefore [
+                        •
+                     ee that] thou reade 
+                  my lessons, or instructions. 
+                  my Precepts 
+                  in such sort. 
+                  so that thou maiest vnderstand them: for to reade [any thing] and not to vnderstand [
+                        〈◊〉
+                     ] 
+                  is to despise and contemne learning. 
+                  is to neglect [or not to regarde] [what thou readest.]
+               
+               Therefore, [to come to the purpose,] make humble supplication to God, or vse to pray to God. Be
+                     •
+                  ech God [or pray h
+                     •
+                  mbly to God.]
+               
+                  Loue thy father & mother entirely. Loue [thy] parents.
+               
+                  Haue thy kin in estimation. Loue [or reuerence] [thy] kinsfolks.
+               Feare [or reuerence] [thy] teacher. maister.
+               
+                  Keep diligently. Keep [that which is committed to thee. that which is] giuen [to thee,] or Keep a thing committed [to thee.]
+               
+                  Come not to plead before thou be instructed what to say. Prepare thee for the barr. to the pleading place▪ [or to be fit to plead thy cause.]
+               Walke, [or conuerse] with them who are vertuously, and well disposed. with good men.
+               
+                  Thrust not 
+                        •
+                     n thy selfe to 
+                        〈◊〉
+                      
+                     
+                        〈◊〉
+                      other mens matters. Thou maiest not come to
+
+counsell before thou be called.
+               Be thou handsome, or neat, not slouenlike. cleanly.
+               
+                  Salute others cheerefully. Salute willingly [or be curteous in saluting others.]
+               Yeelde to him that is migh tier then thou, or striue not with him, that is mightier then thy selfe. to a great'r [man,] [or giue place to thy better.]
+               
+                  Be not cruell, or rigorous against thy inferiour. Spare a lesse [man] [or thine inferiour.]
+               
+                  Be not vnthrifty. Keepe thy substance [or goods.]
+               Keep modesty, or shamefastnesse. bashfulnesse.
+               
+                  Be carefull in thy affaires. Adde diligence [or be thou diligent.]
+               
+                  Giue thy selfe to reading good books Reade books.
+               
+                  Keep in memory that which thou hast read. Remember what [books] thou hast read.
+               
+                  Looke well to thy h
+                        •
+                      shold or charge. Care for thy family.
+               
+                  Bee of a gentle & milde 
+                        •
+                     ech. Be faire spoken, [or be thou courteous in speech.]
+               Be not angry Wi
+                        •
+                     hout a iust cause or weighty matter. d not m
+                        •
+                     ck at a
+                        •
+                     i man. without cause.
+               Thou shalt * mock no man.
+               Thou shalt not laugh at, [or scorne] A 
+                        〈◊〉
+                      in miserie. a miserable [man.]
+               Giue 
+                     mutum is taken Aduerbially for mu
+                           •
+                        o.
+                   mutually [or lend.]
+               
+                  Consider 
+                        •
+                     o whō thou lendest, 
+                        •
+                     r to wh
+                        •
+                     t man. See thou to whom thou giuest.
+               Bee thou present at the 
+                        〈◊〉
+                     , or hearing causes pleaded. in iudgement] or in hearing the cause of
+
+thy friendes handled.]
+               
+                  Make not feasts euery day. Feast seldome.
+               Sleep that which is sufficient, not as much as thou canst. enough, [or as much as sufficeth nature.]
+               
+                  Keep vnuiol
+                        •
+                     bly. that which thou hast sworne lawfully. Keepe [thy] oath [or thy lawfull oath.]
+               
+                  Drink wine temperately. Temper [or moderate] thy selfe in wine.
+               
+                  For the defence, or safety of thy country Fight for [thy] countrey.
+               
+                  Thou shalt beleeue. Thou maiest beleeue nothing vnaduisedly, or vndiscreetly. rashly.
+               
+                  Consider well, what is s
+                        •
+                     t to be done. A
+                     •
+                  ke thou counsell of thy selfe, [or aduise vvith thy selfe.]
+               
+                  Ask or take counsel Consult safely [or follow safe counsell.]
+               
+                  Auoide wa
+                        •
+                     ily, or run away from 
+                        •
+                     ll dishonest company. Fly a whore.
+               
+                  Apply thy book. Learne letters, [or get learning.]
+               
+                  Lye not in any case. Thou oughtest to lye nothing [or not at all.]
+               
+                  Be beneficiall to men deseruing well. Do well to good [men.]
+               Be not foule tonged, or a slanderer, or backbiter. an euill speaker, [or foule mouthed.]
+               
+                  Keep well. Retaine [thy] the good opinion that men haue of thee. estimation, [or reputation.]
+               Iudge [equally, not for fauour or gaine. that which is] equall
+
+[or iust.]
+               
+                  Gaine the fauour of thy parents. Ouercome thy parents by patience, [or by patient suffering and forbearing.]
+               
+                  Remember each good turne done to thee. Bee thou mindefull of a benefit receiued.
+               Stand at the seat of the iudge, Pretour, or Major, to get wisdō. at the iudgement seat, [or frequent the place where matters are debated.]
+               Bee thou skilful in the law to help thy friends, or discreet in thy business. able [or fit] to giue counsell.
+               Vse vertue, [or do all things vertuously.]
+               
+                  Moderate thy anger, or passion. Temper [or moderate] angrinesse.
+               
+                  Vse such sports wherein are no euill. Play with the top.
+               
+                  Fly all naughty gaming and spending, or games standing on lot. Fly the dice.
+               Thou shalt do nothing from the arbitrem. 
+                  according to thy power, what thou mayest, but according to right. by the arbitrement of thy strength, [or power.]
+               Thou shalt not despise, or disdaine him that is more base contemne a [man] lesser then thy selfe, [or thy inferiour.]
+               Do not couet other mens goods. other folkes things.
+               
+                  make much of thy wife. Loue [thy] wife.
+               
+                  correct, or nurture. Instruct [thy] children.
+               
+                  Abide, or indure. Suffer the order. lawe vvhich
+
+thy selfe hast made [or ordained.]
+               Speak thou little. few things at a banquet. in a banquet.
+               
+                  Set thy minde vpon, or affect Study, [or desire] that which is right, or equall. iust, [or lawfull.]
+               
+                  Take, or receiue good will gladly, or refuse the good will of no man. Beare thou willingly loue, [or good will] [or Be glad to be loued.]
+            
+            
+               The disticks are two verses together, containing the same matter. disticks [or double Metres] of Cato 
+                  of manners. concerning manners. The first Book. The Preface.
+               
+                  1 The worship of God [ought to be the chief thing, or chiefly regarded. is] chiefe.
+                  
+                     Because. IF [or seeing that] God is a mind. a spirituall thing [or a Spirit.] as Poets writing in verse. verses do shew, or specifie to vs. do tell vs.
+                  Hee [or this God] let him be worshipped, or he must be honored and serued chieflie. is to be worshipped to thee [or of thee] especially with a sincere minde, or with purenes of spirit. pure minde.
+               
+               
+                  
+                  2 Sleepiness, or sluggishness. Drowsinesse [is] to be 
+                        
+                           〈◊〉
+                        . shunned.
+                  
+                     Be more vigilant, or wat
+                           •
+                        hfull. Watch alwaies more: neither be thou addicted. giuen ouer, [or altogether giuen] to sleep.
+                  For the rest, or ease of the body continuing ouerlong, or ouermuch ease, or sleep. long continuing rest, [or ouermuch 
+                        •
+                     leness] 
+                        
+                           •
+                        oth g
+                           •
+                        ue▪ or afford nourishment▪ o
+                           •
+                         doth nourish vice. doth minister nourishments to vices, [or sins.]
+               
+               
+                  3 The tongue [is] to be kept vnder, or bridled. kept in.
+                  
+                     Esteem, or account thou. T
+                        •
+                     nk thou, to keep as within the pasture, or to bridle and refr
+                           •
+                        in. to keepe in [thy] tongue to be the first vertue, [or Thinke thou [it] a principall vertue. a chie
+                        •
+                     e vertue to keepe in thy tongue.]
+                  
+                     That man is most like to God. He [
+                        〈◊〉
+                     ] next to God, who knoweth to keep silence. to holde his peace with wisedome. with reason, [or discretion.]
+               
+               
+                  4 A man must accord with himselfe. It is to be agreed [or a man must agree] to himselfe.]
+                  
+                     Beware of, or eschew. Despise thou to bee contrarie to th
+                        •
+                      selfe 
+                        
+                           •
+                        n striuing, or contending. by repugning, [or resisting.]
+                  He will agree with no man. to no [man] who is at variance with himselfe. who himselfe, doth disagree with himselfe.
+               
+               
+                  
+                  5 No man [is] to be condemned. blamed vnaduisedly. rashly.
+                  If thou marke and obserue well. look into the life of men, in a word. to conclude if [thou look into] [their] conditions. Al. thou blamest, or findest fault with. manners.
+                  When Al. they blame other [men] no man liueth without crime, or blame. fault.
+               
+               
+                  6 That which is necessary, or commodious. Vtility [is] to bee put before. to be preferred before wealth. riches.
+                  
+                     Leaue off, or put from thee. Leaue thou [those things] which thou art perswaded of. holdest, [or knowest surely] will hurt, or indamage thee. to hurt [thee] although they be deare to [thee.]
+                  Profit, [or the vse of that which is commodious] ought to be preferred before. to be put before aboundance of goods. riches when time requires. in time.
+               
+               
+                  7 Manners [are] to be framed. to bee changed for the time, [or according to the time.]
+                  Be thou seuere, or strict. constant and variable, or pleasing light [or changing] euen as, or like as. howsoeuer the cause, or occasion. the matter doth require.
+                  A wise [man] doth change
+
+                     his courses, or conditions. [his] maners according to the quality of the time. with the times without offence. without fault, [or blame.]
+               
+               
+                  8 A man must not assent. It is not to be assented alwaies to the wife.
+                  
+                     Giue not credit to thy wife rashly. Belieue thou nothing vnaduisedly. rashly, to thy wife making complaints. complaining against her seruants. of [thy] seruants.
+                  For a vvoman, [or the wife] doth often grudge against. dooth hate oftentimes [him] whom the husband doth like or beare good wil to. doth loue.
+               
+               
+                  9 It is to be instant. 
+                     we must be earnest. Wee must be instant in admonishing a friend. to the correction of a friend.
+                  
+                     Whē as. And when thou exhortest, or counsellest thou admonishest any [man] neither hee will not suffer himselfe to be perswaded. hee the same man will himselfe to be admonished, [or will indure to be admonished.]
+                  
+                     If thou loue him dearely. If hee be deere vnto thee, giue not ouer. doe not thou desist, [or leaue off] from thy indeauors, or beginnings. thy enterprizes.
+               
+               
+                  10 Fools will not be ouercome. are not ouercom by words.
+                  
+                     Striue not in talking. Doe not thou contend in words, against [men] full of words.
+                  Speech is naturall to all. is giuen to all [men]
+
+                     knowledge, or vnderstanding. wisedome of minde [is giuen] to few [men.]
+               
+               
+                  11 Let euery man be. Euery man [is] a friend to himselfe.
+                  Loue thou other [men] in such sort. so, that. as thou maiest bee a deare friend to thyselfe chiefly, or in the first place. to thy selfe.
+                  So do good, or be kinde to. bee thou good to good [men] least thou hurt thyselfe, or sustaine some great damage. least euill losses follow thee.
+               
+               
+                  12 [To spread rumors, or reports is vnlawfull. It is] a thing forbidden to spread rumors.
+                  
+                     Bee affraid of spreading newe
+                           •
+                        . Fly r
+                        •
+                     ours, least thou begin to be accounted a new author [or raiser of newes.]
+                  For it hurteth no man to haue been silent. to haue holden his peace: men repent of their speech. it hurteth a man to haue spoken, [or To haue holden his peace hurteth no man: to haue spoken hurteth him.]
+               
+               
+                  13 Another mans fidelity. faith [we are not to p
+                           •
+                        omise, vpon another mans word. is] not to be promised.
+                  Do not thou promise certainly that which another man hath promised to thee. a thing promised to thee.
+                  
+                     
+                     Fidelity [of men] is therfore 
+                           •
+                        ard to be found. Therefore fidelity is rare, because many [men] do speak mu
+                           •
+                        h and performe little. do speak many things.
+               
+               
+                  14 Let euery man be. Euery man [ought to be] the iudge of himselfe.
+                  When any man giues thee praises and commendat
+                           •
+                        n. praiseth thee, remember to iudge of thy self, whether that praise belong to thee. to bee thine owne iudge.
+                  Do not thou credit. beleeue other men more concerning thy selfe, then [thou doest beleeue] thine owne iudgement, or knowledge. thy selfe.
+               
+               
+                  15 The respect to bee had. The reason, [or regard] of gifts, or kindnesses. of benefits.
+                  
+                     See thou tell to many. Remember thou to shew to many [men] the kinde turne done to thee. the office [or kindness] of another man.
+                  
+                     But say thou nothing of it. And thou thyselfe bee silent, when hast been kinde, or bestowed a benefit. thou hast done wel, [or hast been beneficiall] to other [men.]
+               
+               
+                  16 The commendable things, which an old man hath done. Things done well [of vs] are to be reported in old age.
+                  When thou doest report being an old man. thou in thy old age. being an olde man doest recite, or tell. 
+                     
+                        •
+                     ehearse the doings. the deeds
+
+and sayings of many [men.]
+                  Make [or see] [that those things] run to thee, or run to thy minde, or remembrance. come to thy minde, which thou thy selfe hast done when thou wast a young man. being a young man.
+               
+               
+                  17 The blemish, or vice. blot of being suspicious. of suspicion.
+                  
+                     Thou maiest not care. Doe not care if any man talke with another. speak secretly. in secret speech.
+                  
+                     He who hath a guilty conscience. He himselfe guilty to himselfe surmiseth all to be spoken of himselfe. dooth think all things to be spoken of himselfe.
+               
+               
+                  18 In prosperity, wee must think that aduersity may come. We must think of aduerse things [or aduersity] in prosperous things [or in prosperity.]
+                  When thou shalt in a prosperous estate. be happy, [or in prosperitie] thinke of aforeh
+                           •
+                        
+                      beware of what aduersity may happ
+                           •
+                        n. those things which are aduerse [or against thee.]
+                  
+                     The last things are not euer l
+                           •
+                        ke the first, or there is not euer the same fo
+                           •
+                        tune. The last things do not answere to the first things, in the same course.
+               
+               
+                  19 We must not hope for dead mens shoos. The death of another [is] not to be hoped for.
+                  
+                     
+                     Sith our life is fraile and vncertaine. Sith that a doubtfull [life] and a fraile life is gi
+                        •
+                     n to vs.
+                  Doe not thou place thy hope and affiance. put hope to thy selfe, [or doe not thou hope] to be another mans heire, or to possesse another mans goods after him. in the death of another [man.]
+               
+               
+                  20 We must esteem the minde of the giuer, 
+                           •
+                        ot the gift. The minde [is] to be esteemed in the gift.
+                  When thy friend which is poor. a poore friend doth giue any smal gift. a little gift to thee,
+                  Take thou it thankfully. pleasingly [or kindely] and remember to commend it much. to praise it fully.
+               
+               
+                  21 The bearing, or suffering. The induring of pouerty.
+                  Sith that nature hath made thee. created thee naked, or destitute of all things, when thou wast borne. a naked infant.
+                  Remember to suffer, or take patiently, or with a patient minde. to beare patiently the burden of pouerty.
+               
+               
+                  22 Death [is] not to be feared.
+                  
+                     [See that] thou feare not. Thou maiest not feare that [death] which is the last end of life.
+                  He that feareth death, loseth the benefit, or comfort and pleasure of his life. loseth that same thing that he liueth.
+               
+               
+                  
+                  23 The vnthankfulnes. ingratitude of friends [is] to be auoyded, preuented, or born patiētly. to be fl
+                        •
+                     dde.
+                  I
+                        •
+                      
+                     no man being a friend, that is If none of thy friends. no friend answere to thee for thy merits, or benefits. deserts, [or according to thy deseruings.]
+                  
+                     Find no fault with God. Doe not accuse God, but thou thy selfe repress, or quiet thy selfe, or refr
+                           •
+                        e, and moderate thy selfe. keepe vnder thy selfe.
+               
+               
+                  24 Frugality, [or thriftinesse.]
+                  Vse the goods which thou hast gotten. things gotten moderately, or temper
+                           •
+                        tely, without excesse. sparingly, least thou come to want. least any thing bee wanting to thee.
+                  And that thou maiest keepe that which is, [or that which thou hast] thinke thou alwaies [it] that thou wantest that which thou hast. to bee wanting to thee, [or that thou maiest want.]
+               
+               
+                  25 A promis
+                           •
+                         o
+                           •
+                        t made A promise iterated, [or repeated againe] [is] greeuous, [or offensiue.]
+                  
+                     Take heede thou promi
+                           •
+                        e not. Thou shalt not promise twise to any [man] [that thing] which thou maiest performe easily. which thou canst performe.
+                  Least thou 
+                        
+                           •
+                        e accounted. be vnconstant as the wind, or light & w
+                           •
+                        ering. windy, [or a boaster] whilst thou desirest to be thought. wilt be
+
+accounted 
+                        〈◊〉
+                      [or courteous & friendly.]
+               
+               
+                  26 Cunning is to bee deceiued, or met with, by cunning. Art [is] to be deluded by Art.
+                  
+                     If any man pretend good will in words. He that doth dissemble in words, and yet is not a true and sound friend. neither is a faithfull friend in heart.
+                  
+                     This precept is contrary to Christianity. Thou also do likewise, or euen so do thou. the like thing: so craft or dissimulation. art is made frustrate, or voide. is deluded by art, [or cunning.]
+               
+               
+                  27 Flattery. Faire speaking [is] suspicious. suspected, [or ought to be suspected]
+                  Doe not thou approue ouer much men, speaking smoothly. flattering in speech.
+                  
+                     The call playeth merily. The pipe singeth [or soundeth] sweetly, wilst the fouler beguileth. doth deceiue the Birde.
+               
+               
+                  28 Children [are] to be trained vp. to be instructed in good sciences, or trades of liuing. in arts.
+                  If children be to thee, [or if thou haue children,] yet no wealth to leaue them. neither wealth [or but no wealth] then traine them vp in good trades, or sciences. instruct them in Arts by which, or to the ende that. whereby they may be able to defend themselues from pouerty. defend [their] poor life, [or to get their liuing.]
+               
+               
+                  
+                  29 How things [are] to be Valewed or reckned. esteemed.
+                  
+                     Account thou. Think thou [or esteeme] that thing which is vile or little set by, or base. cheape [to be] precious or much worth. deare, that which is deare [to be] cheape.
+                  So thou shalt be accounted neither as withholding any thing from thy selfe which thou esteemest of, or which is necessary. sparing to thy selfe, nor accounted of any, couetous. nor couetous to any.
+               
+               
+                  30 Things that may be iustly reprehended. blamed [or blame worthy] [are] not to be done.
+                  
+                     Do not thou. Thou thy selfe shalt not do those things which thou art wont to reproue, or finde fault with. to blame.
+                  It is a reproach. a dishonest thing to him that teacheth. to the teacher, when his owne fault. a fault confutes, or condemnes himselfe. reproues himselfe, [or when hee himselfe, dooth that which hee blameth in others.]
+               
+               
+                  31 Things meete to be granted, or like to be granted. Things to be granted [are] to be requested. asked.
+                  
+                     Demaund thou. Aske thou that which is
+
+                     
+                        •
+                     ust, or that which may seeme honest.
+                  For it is folly. a foolish thing to aske [that] which may be denied rightly, iustly, or lawfully. by right.
+               
+               
+                  32 Knowne things [are] not to bee le
+                           •
+                        t. changed for vnknowne things.
+                  Do not thou esteeme of. put before [or preferre] nothing which thou knowest not. a thing vnknowne to thee, to those which thou art acquainted with. knowne things, [or before knowne things.]
+                  Knowne things are surely grounded on reason. do consist in iudgement, [or doe stand on certaintie,] vnknowne things [do consist] in aduenture, or vncertaintie. in chance.
+               
+               
+                  33 Euery day [is] to be accounted. thought our last day. the last [day.]
+                  Sith that our life is troubled, or disquieted. is tossed doubtfully, [or conuersant] in dangers which we knowe not. in vncertaine dangers,
+                  Whosoeuer [thou art which] labourest, account euery day wonne, wherein thou labourest, and escapest death. put [or account] the day to thee for gaine.
+               
+               
+                  34 We must obey [or please] [our] friends.
+                  
+                     Suffer or forbeare. Giue place [or yeeld] somtime
+
+                     to thy companion. to thy fellow, whē 
+                     thou mayest ouercome. thou ar
+                        •
+                     able to ouercome.
+                  Because pleasant, or good friends. Al. are retained. sweete friendes are ouercome by pleasing, or for bearing, or by bearing with their conditions. by pliantness [or yeelding to.]
+               
+               
+                  35 The duties of friendship [ought to be] from one to another, or between one and other. mutuall.
+                  
+                     See that thou doubt not, or feare not. Thou maiest not doubt to giue little presēts to bestow little things, when thou askest great things.
+                  For thanks or good will, requiting. fauour [or loue] dooth ioyne together deare [friends] by giuing and receiuing kindnesses. by these things.
+               
+               
+                  36 Thou must not fall out with thy friend. Friendship hateth braulings.
+                  Beware to make debate, or contention. to bring in strife, [to him] with thy friend. with whom fauour [or goodwil] is ioyned to thee, [or with whō thou art in loue.]
+                  Anger doth ingender, or beget. breed hatred: vnity, or agreemēt. concord doth nourish [or increase] goodwill, or friendshippe. loue.
+               
+               
+                  37 Correct not in anger. Correction [ought to bee] without anger.
+                  When displeasure. griefe dooth moue, prouoke, or inforce thee. vrge thee vnto anger, for the offence. fault
+
+of [thy] seruants,
+                  Thou thy selfe stay or temper thy anger, or pacifie thy selfe. moderate thy selfe, that thou maiest spare thine [or thy seruants.]
+               
+               
+                  38 To ouercome by patience.
+                  Ouercome thou [him] somtimes by suffering. by bearing [or for bearing] whom thou mayest vanquish. ouercome [great hand, strength, or power. by force.]
+                  For patience [is. hath been] alwaies the chiefe, or most excellent vertue of all vertues. greatest vertue of manners.
+               
+               
+                  39 Things gotten are to be kept.
+                  Keep [or saue together] rather then to seeke to get more. rather [those things] which are already. now gotten by labour.
+                  
+                     or when we lose by our labour. When [our] labour is in losse, [or in repayring our loss mortall, or remedilesse pouerty doth come. deadly neediness dooth increase [or growe.]
+               
+               
+                  40 It is to be consulted. Thou must consult [or look] to thy selfe in the first things, or first of all, before all other. especially.
+                  When thou being happy [or in prosperity] shalt be somtimes bountifull in making good cheare. liberall [or franke] to thy
+
+knowne Al. and deere friends:
+                        Al. and deare to thy friends. be thou alwaies next [or best] to thy selfe, [or look first to thy selfe, or to thine own estate.]
+               
+            
+            
+               The second Book of Al. of double metres. disticks,Al. of Cato. concerning manners [or of morall disticks.]
+               
+                  The Preface.
+                  IF perchance, or peraduenture. perhaps thou wilt [or desirest] to know the husbanding, dressing, or ordering of the ground. the tillage of the earth,
+                  Reade thou Virgill in his Georgicks.; but if so be thou desirest, or regardest. if that thou labourest more to haue knowen. to knowe
+                  
+                     The natures, or operations. The forces [or vertues] of hearbs, the Poet M
+                           •
+                        cer. Macer will teach them in his book writtē in verse. will tell thee in verse.
+                  If thou couetest to knowe the Romane [warres] or the warres of Carthage, or the Affricane warres. the Punicke warres,
+                  Thou maiest seeke Lucane, who will tell [thee] their martiall battels, or their warres and battells. the battels of Mars, [or of warre.]
+                  
+                     If thou list at all, or in any manner. If it list [thee] any thing [or
+
+at all] to loue, or to learne to loue by reading, [or thorough reading any thing concerning loue,]
+                  
+                     Aske for, or goe vnto, or read. Seek Naso, [or Ouid]: but if thou regard this, or this be thy care. if this care bee to thee [or if thou haue this care]
+                  That thou maiest liue wisely, or as a wise man. a wise [man] heare thou, to the ende that, or where, thou maiest learne. to the intent that thou maiest learne
+                  
+                     [those things] by which. By what thing the age, or life of man. the life [or age] is is passed ouer, or may bee liued. ledde being separate, or remoued. seuered [or free] from vices.
+                  Therefore attend. come thou hither, and learne by reading these Precepts. by reading what is the right trade of life. what wisedome is.
+               
+               
+                  1 It is to be deserued well. We must deserue well of all men.
+                  Remember thou to pleasure, or doe good to. to profit not only friends, but them whom thou knowest not. euen [men] vnknowne, if thou canst [or if thou be able.]
+                  [It is] more profitable then a kingdome, to get friends by merits, or by deseruing well of them. by deserts.
+                  
+                     Or thus; To get friends by desert is
+
+                     better then to get a kingdome. more profitable then a kingdome.
+               
+               
+                  2 Secret things [are] not to be searched.
+                  
+                     leaue off. Omit to search out curiously. to inquire the secrets of God, and what the secrets of heauen are. what heauen is.
+                  Sith that thou art subiect to death. mortall inquire after. care for [those things] humane things, or things which concerne thee. which are mortall.
+               
+               
+                  3 The feare of death doth put away, or banish. driue away ioyes.
+                  
+                     Leaue off. Leaue the feare of death, for it is a folly. foolish thing in euery time, [or at all times.]
+                  
+                     when thou art afraide of death. Whilest thou fearest death, thou losest the ioyes of life.
+               
+               
+                  4 Anger. Angrinesse [is] to bee eschewed. to be taken heed of.
+                  
+                     Thou being angry, do not contend, or striue. Doe not thou contend being angry, about a thing doubtfull. concerning an vncertaine matter.
+                  Anger dooth trouble the minde, or reason. hinder the minde, that it cannot discerne or iudge of the truth. see the truth.
+               
+               
+                  
+                  5 We must bestow quickly. spend where [or when] neede is.
+                  
+                     Bestow. Make cost [or spend] cheerfully, and readily. quickly when cause doth require. the matter it selfe doth desire, [or when iust occasionis.]
+                  For somthing must be giuen, or bestowed. is to be giuen, when time or matter dooth require.
+               
+               
+                  6 A meane, or middle condition of life is most safe. A moderate fortune [or meane estate] is more safe.
+                  
+                     Eschew, or auoide. Fly that which is ouermuch: remember to be pleased, or well content. to reioyce with a little, or meane estate. in a little.
+                  The ship goeth more safely. is more safe, which is caried vpon a small riuer, then that which is in the maine sea. in a moderate riuer [or streame.]
+               
+               
+                  7 Secret faults. Hidden vices [are] to be kept close, or silent. kept in [or concealed.]
+                  
+                     Remember to hide wisely, or warily. Thou being wise remember to hide from [thy] fellowes [that thing] whereof thou maiest haue shame. which may shame [thee,]
+                  Least many men reproue that. moe [men] blame that thing, which thou only knowest. which dooth displease
+
+thee alone.
+               
+               
+                  8 Hidden things are reuealed at length.
+                  
+                     Al. I will not that thou think
+                        Al. Do not thou think, or think not. vvicked men that they shall escape punishment, for their sinnes. to gaine their sinnes.
+                  Sinnes are couered for a time. lie hid in times, and are reuealed. lye open in time.
+               
+               
+                  9 Imbecillitie, or feeblenes of strength. Weaknesse is recompensed by vertue.
+                  
+                     Despise not. Doe not thou contemne the power. the strength of a little bodie [or a weak body.]
+                  
+                     He is wont to excell. 
+                     Little men are are oft times wise. Hee excels in wisedom. in counsell to whom nature hath not giuē force hath denied strength.
+               
+               
+                  10 We must giue place. We must yeeld to a more mighty [man] to a time. for a time.
+                  
+                     yeeld. Giue place in time [to him] whom thou hast knowen. shalt knowe not to be an equall match for thee, but ouer-hard, or too strong for thee. not to be equall to thee.
+                  Wee see oft times him that ouercame. the conquerour to be conquered of the weaker. to bee ouercome of the conquered, [or of him who
+
+was vanquished.]
+               
+               
+                  11 We must not chide or fall out with our friends. Not to brawle with [our] familiar [friends.]
+                  
+                     Chide not. Doe not thou contende in words against thy acquaintance. [thy knowen friend.]
+                  
+                     Very great discord. The greatest strife doth increase, or doth rise. dooth growe somtimes of small words. by the least words.
+               
+               
+                  22 We are not to seek by lot what our fortune must be. Fortune [is] not to bee sought by lot.
+                  
+                     Do not speak out vainly. Do not inquire, [or search out curiously] by lotte, what God purposeth. intends.
+                  He himselfe doth cōsult, or determine deliberate not calling thee to counsell. without thee, what he sets down, or ordaines to do with thee. determineth concerning thee.
+               
+               
+                  13 Superfluity, or excesse. Riot doth ingender, or begets. doth breed hatred.
+                  Remember thou to auoid, or eschew. to shun enuie, in too much decking, trimming, or ouermuch pompe. tricking [or finenesse.]
+                  
+                     Which [enuy] if [or although] it do not hurt, notwithstanding, or neuerthelesse. yet it is a troublesom. grieuous thing to abide, or indure it. to suffer [or beare] it.
+               
+               
+                  14 Our heart. Our minde [is] not to bee put down. [or cast down] because we are wrongfully condemned. for vnequall. vniust iudgement.
+                  
+                     Be of good courage, or good chear. Be thou of a valiant minde, albeit thou art condemned wrongfully. when thou art condemned vniustly.
+                  No man doth inioyeth it long. reioice long which preuaileth, or getteth his purpose, or the cause. which dooth ouercome through vniust iudgement. by an vniust iudge.
+               
+               
+                  15 Iniuries past, are not to be remembred again. Strife [is] not to bee rubbed againe [or renewed] to [friends] 
+                        
+                           •
+                        et at one, or agreed. reconciled.
+                  Do not thou repeate. relate [or rehearse] the badde sayings. euill speeches of brawlings past. of strife past.
+                  
+                     Or, to remember anger after enmities, is the &c. It is [the property] of euill [men] to remember anger after grudges ended, or when men are reconciled. after enmities.
+               
+               
+                  
+                  16 Neither commend. praise thou thy selfe, nor blame [or dispraise thy selfe.]
+                  Thou thy selfe, maiest neither praise thee. thy selfe, neither shalt thou dispraise. blame thy selfe.
+                  
+                     Foolish men. Fools do this who are moued with vain glory, or who are vain glorious whom vain glorie doth vex.
+               
+               
+                  17 Thriftinesse. Sparing.
+                  Vse 
+                        
+                           •
+                        paringly without excesse, or prodigalitie. moderately goods gottē. things gotten, when cost [or our expence] dooth abound, [or exceede our abilitie.]
+                  
+                     it soone consumes, or it is soone gone. It slides away in a little [time] which was gotten, or gathered. which hath beene gotten in a long time.
+               
+               
+                  18 The eye-brow [or countenance] [is] to be cast down, or changed. put down now & then. sometime, [or It is good sometime to counterfeit folly.]
+                  
+                     Be thou like a fool. Bee vnwise [or faine lightnesse or folly] when occasion and opportunity, or iust cause. time or matter doth require.
+                  
+                     To faine [or counterfait] folly. foolishnesse in fit place. in place, [or when opportunity serueth] is the chiefest wisedome.
+               
+               
+                  19 [Be thou] neither a dingthrift, spending aboue measure. prodigall miserable. nor couetous.
+                  
+                     Eschew, or auoid. Fly superfluitie, or excesse and prodigality riotousnes, and withall [or together] remember to shun
+                  The crime of auarice. couetousness, for both these vices. they do much hurt our good name, or estimation. are contrarie to fame [or good reputation.]
+               
+               
+                  20 Wee must beleeue little [or giue small credit] to a great talker. to a prattler.
+                  Do not thou giue credit. belieue [a man] telling euer. reporting alwaies some newes. certaine things [or som strange matters.]
+                  [For] very little heed. little credit [is] to bee giuen [to them] who vse many words, or are euer talking. who speak many things.
+               
+               
+                  21 The drunken man may not accuse, or let not the drunken man accuse the wine. let him not accuse the wine.
+                  
+                     
+                     Condemne, or accuse thy selfe. Do not thou pardon thy selfe that thou sinnest. offendest by drink, [or by ouermuch drinking.]
+                  For there is no crime. fault in the wine. of the wine, but the fault [is] of him that drinks excessiuely. of the drinker.
+               
+               
+                  22 Counsels [are] to bee credited] or committed] to [our] friends.
+                  
+                     See that thou commit. Commit secret counsell to a friend which is discreet to keep counsell. to a still, or silent. close companion.
+                  Commit the cure of thy body. the helpe of [thy] bodie to a trusty. faithfull Physitian.
+               
+               
+                  23 Let not the successe. The prosperity. successe of euill [men] let it not offend thee.
+                  Doe not thou take to heart. beare [or take] greeuously the vndeserued successes, or prosperous successe. the vnworthy successes [of euill men.]
+                  Fortune doth cherish, or fauour. doth cocker euill [men] that it may hurt [them.]
+                  The first verse may be more easie thus;
+                  
+                     Noli successus indignos ferre molestè.
+                  
+               
+               
+                  
+                  24 Things which may fall out. Future chances [to bee looked to before, or preuented. to bee] foreseene.
+                  
+                     Prouide for aforehand▪ or foresee. Look to these chances to beare. to be borne, which are wont to fall out. do come [or all out.]
+                  For whatsoeuer thou shalt foresee. look vnto before, doth lesse hurt. doth hurt more lightly.
+               
+               
+                  25 The minde [is] to be cheared, or comforted. to bee cherished with hope in aduerse things. aduersity.
+                  
+                     Be not dismayed, or discouraged. Doe not thou submit [or cast down] thy minde in aduerse things. in aduersity.
+                  
+                     Keep hope, or be of courage. Retaine hope: man hopes still in death. one hope [or hope alone] doth not leaue a man in death.
+               
+               
+                  26 Opportunity [is] to be taken. to bee holden when it chanceth. hapneth [or falleth out.
+                  Doe not thou omit, let slip, or ouerslip. let pass any thing. the matter which thou knowest [to be] fit or profitable and cōmodious for thee. apt to thee [or for thee.]
+                  Occasion [or opportunity]
+
+[hath haire. is] hayrie in the that it may bee layde hould on before. forehead, it is with out haire. balde on the hinder part. 
+                     it is to late to catch when it is past. after [or behinde.
+               
+               
+                  27 things to come. Future things [
+                        •
+                     re] to be knowne. to be gathered by things past. of things past.
+                  
+                     Consider. Look to [that thing] which is past and behinde vs. which followeth, and prouide for. see before that which is comming. which hangeth ouer.
+                  [See that] thou imitate that 
+                        Ianus, the double faced God of the Romanes, looking both wayes. God which looketh to either part [or to both parts] [or which seeth both before and behinde.▪
+                  
+               
+               
+                  28 A reason. A We must haue a regard, or consideration. regard of [our] life [is] to be had.
+                  Be thou somtime more moderate in thy diet, then thou a
+                           •
+                        t wont ordinarily. more sparing, that thou maist be haue better health. more strong, [or more healthfull.]
+                  
+                     We must be more carefull for health then pleasure. Few things are due to pleasure: moe things [are due] to health.
+               
+               
+                  29 We must yeeld. We must giue place to the most, or to the generall sort. to the multitude.
+                  
+                     Thou being one [or alone] shalt contemne neuer. shalt neuer despise. contemne the opinion, or sentēce. iudgement of the people;
+                  Least thou please none, or no body. no [man] whilest thou wilt make no reckoning of the counsell of any. contemne many [men.]
+               
+               
+                  30 We must regard our health aboue all things. Health [is] to be cared for.
+                  
+                     Haue chiefe regard of thy health. Let there bee especially a care of health to thee: which thing is the first thing.
+                        l which is the chiefe of all things.
+                  
+                  Thou maiest not blame the times, when thou art the cause. when thou art a cause of thine own woe, or sorrow. of griefe to thee. to thy selfe.
+               
+               
+                  31 Dreames [are] not to be regarded. to be obserued.
+                  
+                     Doe not care for. Thou maiest not care for dreames: for what thing the humane mind, or the mind of man. mans minde doth wish,
+                  Hoping for when it doth awake, it seemeth to see. it dooth see that same thing in sleep. by This is meant of ordinary dreames, not such diuine visions, as are recorded in the book of God. sleep.
+                  
+                     
+                     Or thus,
+                  
+                  The minde of man doth see that same thing by sleep, [or in sleeping] which it wisheth hoping whilst it awaketh.
+               
+            
+            
+               The third Book of double metres. disticks of Manners.
+               
+                  The Preface.
+                  O Reader whosoeuer [thou art which] wilt [or desirest] to vnderstand. to knowe this little Book written in verse. this verse,
+                  Thou shalt beare away. beare [in mind] these precepts, which are most welcome, happy, or pleasant. most acceptable [or profitable] to life, [or to good liuing.]
+                  
+                     furnish, or adorne with instructions. Instruct [thy] minde in precepts, neither cease not, or giue not ouer, or be weary of learning. thou maiest cease to learne.
+                  For the life without learning is as a picture. 
+                     a man without learning, is like a dead man. an image of death.
+                  Thou shalt beare away, or get much commodity. beare [or reap] many commodities: but if thou shalt despise this Book. that, [or this
+
+verse.]
+                  
+                     Thou thy selfe. Thou shalt not despise. [neglect] me the author of this book. the writer, but thou shalt be the loser. thou shalt neglect thy selfe.
+               
+               
+                  1 [Thou maiest not feare, or do not feare. See that] thou feare not the tongue of other [men] whilest thou doest well. in doing rightly.
+                  When thou liuest rightly [or well] do not care for. thou mayest not care for, the speeches. the words of slanderers. of euill [men.]
+                  It is not in our power, to rule mens tongues. of our iudgement. arbitrement, [or it lieth not in vs] what euery one doth talke. may speak.
+               
+               
+                  2 The fault. crime of a friend [is] to be hid asmuch as may be. concealed.
+                  Thou being brought forth. produced [to witness. as] a witnesse, yet the credit 
+                     or so that thou maiest saue thine owne credit. modest shame [or honesty] [of thy friend] being safe before,
+                  
+                     Hide, or keep close. Conceale the fault. crime of thy friend asmuch-as-euer thou canst.
+               
+               
+                  
+                  3 fawning, or flattering. Faire speaking [is to be suspected. is] suspected, [or suspicious.]
+                  
+                     Take heede to fly. Remember thou to beware of flattering, or faire speeches. fawning and stuttering. stammering [or counterfetting] speeches.
+                  
+                     Plainenesse of speaking truth. Simplicitie of trueth is honest, plain. sound [or sincere] [but] the cunning. the fraud [or deceitfulnesse] of speaking deceitfully. of speaking [is] counterfait. fained.
+               
+               
+                  4 A idle, or slothfull. sluggish life [is] to be eschewed. fled.
+                  Fly thou slownesse, or dulness. slothfulnes, which is accounted the sloth. sluggishness of life.
+                  For when the minde is idle. dooth languish, idleness [or litherness] doth spoyle. consume the body.
+               
+               
+                  5 The minde tired, or ouertoyled. wearied [is] to be 
+                        
+                           •
+                        ased, loosed, or refreshed with recreation. released.
+                  Put between somtimes mirth. ioies [or honest recreations] to thy
+                        u Intermeddle, or interpose and mingle with. cares, [or labours.]
+                  That thou maiest be able to
+
+                     beare out, or vndergo. indure any, though neuer so great. any labour in thy minde.
+               
+               
+                  6 Thou mayest reproue no man. reprehend no man malitiously. with an euill minde.
+                  Thou shalt not finde fault with. carpe at, at any time, the speech. saying or deede of another [man.]
+                  Least that another [man] mock thee. deride thee by thine example, or requite thee alike. by a like example.
+               
+               
+                  7 [Our] state. inheritance [is] to be augmēted. increased.
+                  
+                     Increase, augment. or see thou increase. Keepe thou by increasing [those things which come vnto thee, by the death of thy friends. those things] which the last lot [or last will of thy friends] being noted [or set down] in tables, because in old time they writ in tables. in tables, [or writings] shall giue thee, least all speak of thee, as of a spend-al, or euill husband. least thou be [he] whom fame may speak of, [or of whom all men may talk.]
+               
+               
+                  8 Old age let it bee bountifull. Let old age be bountifull.
+                  VVhen riches abound to thee, or thou hast wealth enough. remaine to thee in the end of old age,
+                  
+                     Make thou, [or see thou] [that] thou liue bountifully, or frankly and liberally. bountifull, not sparing as a niggard niggardly to thy friends, [or toward thy friends.]
+               
+               
+                  9 The words [are] to be considered, viz. what is spoken. attended, not who speaks. not the mouth of the speaker.
+                  
+                     Thou who art a master, or lord. Thou being a maister [or thou that art a maister] despise not. do not despise the profitable counsell of [thy] seruant.
+                  
+                     Thou shalt not contemne at any time. Thou mayest despise the sense, or opinion. the aduise [or counsell] of no man at any time, if it bee profitable. if it profit.
+               
+               
+                  10 We must vse [our] present fortune [or we must be content with our present estate.]
+                  
+                     if thou haue not as thou hast had before, or if thy goods bee diminished. If there be not to thee [or if thou haue not] [that thing] vvhich hath beene before, in goods or in money. reuenew, [or in yeerly maintenance or rents,]
+                  
+                     Make thou [or see] [that] thou liue content with that thing which God giueth. that which the times doe giue, [or afford.]
+               
+               
+                  11 Awife [is] to be led, or taken. not to be married in hope of portion, or goods. Dowrie.
+                  Fly thou [or beware] least thou marry, [or that thou doe not marry] a wife, in respect of portion, or goods. vnder the name, [or in regard] of a dowrie.
+                  Neither retain thou, or keep her. will thou [or bee thou willing] to retaine [her] if she shall begin to be wicked. 
+                     This counsell was Heathenish, not Christian. troublesom.
+               
+               
+                  12 We must learne to be wise, by other mens examples. To be wise by another mans example.
+                  Learne thou by the example of many [men] what facts, or things. deedes thou oughtest to follow. t
+                        •
+                     ou mayest follow;
+                  What [deedes] thou mayest shun, or auoide. flie [or thou oughtest to flie]: the life of other men. another mans life is a teacher to vs, teaching what to do, what to auoide. a mistresse to vs.
+               
+               
+                  
+                  13 Nothing [is to be assayed, or attempted. tried] aboue [our] strength.p ability, or power.
+                  
+                  Thou maiest take that in hand. trie that thing, which thou canst [or art able to bring to passe] least thy labour being pressed, ouerloaden or vanquished. oppressed with the difficultie. waight of the worke, doe lie down. faint [or yeeld] and thou leaue vndone. leaue thy enterprises. things tryed [or assayed] without profit. in vaine [or without effect.]
+               
+               
+                  14 Hee that is silent. holdeth his peace doth seeme to consont.
+                  Doe not thou keep secret, conceale, or dissemble. holde thy peace at [that thing] which thou knowest. thou hast knowen done not rightly, [or ill done.]
+                  Least thou seeme to will [or to be willing] to countenance, or like of. imitate euill [men] in keeping in silence their euill doings. holding thy peace.
+               
+               
+                  
+                  15 Seueritie is to bee moderated, or mitigated. Rigour [is] to be tempered by fauour.
+                  Aske thou the help, or fauour. the aide of the iudge vnder a hard or rigorous law. an vnequall lawe.
+                  
+                     Also the best laws. Yea, [or euen] the lawes themselues doe couet [or require] that they bee ouer-ruled, or mitigated by equity. ruled by right.
+               
+               
+                  16 [Thou maiest beare, or beare thou. See that] thou beare [those things] which thou sufferest by thine owne fault.
+                  Remember thou to take in good part to beare patiently, what thing thou sufferest by thine own fault, or worthily. deseruedly.
+                  And when thou art faulty. guiltie to thy self [or when thou knowest thy selfe guilty] be thine owne iudge. condemne thyselfe, thou being iudge.
+               
+               
+                  17 Many things [are] to bee read, but with iudgement.
+                  
+                     Make thou [or see thou] [that] thou reade many things: and when they are read ouer. they being read throughly, read daily more & more. read ouer many [moe.]
+                  For the Poets writing in verse. Poets do speak of. doe sing things to be wōdred at. maruelled at, but not to be credited alwaies. not to be beleeued.
+               
+               
+                  18 We must speak modestly at a feast, or banquet. in a banquet.
+                  Make thou [or see] that thou of few words. bee modest in talk, or sparing in speech. in speech, amongst guests, [or at a feast;]
+                  Least thou be called a busie talker. a pratler, whilst thou wilt, [or desirest] to be esteemed. accounted courteous & of good behauior. ciuill.
+               
+               
+                  19 The anger. angrinesse of wiues [is] not to be feared.
+                  
+                     feare not. Do not thou feare the words of thy wife being angry. of the angry wife.
+                  For whilst a woman dooth weep, she works wi
+                           •
+                        es, or treacheries. shee dooth build [or practice] deceits with her teares.
+               
+               
+                  
+                  20 vse well that which thou hast gotten. We must vse things gotten [but] we must not misspend them. abuse them.
+                  Vse things gotten: but thou mayest not seeme to spende them wastfully. to abuse them.
+                  They that do consume their owne goods. things doe seeke after. doe follow other folks things, when they want or when all is gone. when it is wanting [to them] [or when they lack.]
+               
+               
+                  21 Death [is] not to be feared.
+                  Make thou [or see that] thou Determine with thy selfe. propound to thy selfe, not to feare death. death not to be feared.
+                  VVhich [death] if [or although] it is not good, neuerthelesse, or yet notwithstanding yet it is the end of euils of this life. of euils.
+               
+               
+                  
+                  22 An honest wife [is] to bee borne with, if [or although] [shee bee] apratler, [or shrew of her tongue.]
+                  Remember thou to suffer or indure to beare the talke. tongue of [thy] wife, if she be a good huswife. thriftie.
+                  For it is a fault. an euill thing to be vnwilling to suffer any thing. to will, [or bee willing] to suffer nothing, nor to be able to giue no answere. to hold the peace.
+               
+               
+                  23 Godlinesse. Pietie towards Parents.
+                  Loue thy father and mother, whom thou oughtest to loue dearely. thy deere parents, not with a grieuous, inforced, or not by compulsion. sicke [or constrained] pietie.
+                  
+                     neither offend. Neither maiest thou offend [thy] mother, whilst thou wilt be dutifull. good to thy father.
+               
+            
+            
+               
+               The fourth Book of disticks, of manners. concerning Manners.
+               
+                  The Preface.
+                  
+                     Thou whosoeuer. WHosoeuer [thou art which] desirest. couetest to passe ouer, or to liue. to lead a quiet life, or a life free from care & trouble. a secure life,
+                  
+                     Neither to haue. Neither [thy] mind to bee defiled, or spotted. to stick in vices, [or to be delightted in vices] which hurt hinder, or marre. are against [or contrary to] good manners. manners,
+                  Remember thou to read ouer these Precepts often. these Precepts to be read againe [or read ouer and ouer] alwaies to thee, [or of thee.]
+                  Thou shalt finde in them. finde somthing which may guide thee as a master. in which thou maiest vse thy selfe [as] a maister.
+               
+               
+                  1 The contempt of riches.
+                  
+                     Despise riches if thou desire to be happy in thy soule. if thou wilt be blessed in [thy] minde.
+                  VVhich [riches] couetous [men] which look vpon, or haue in admiration, or doate vpon. look vp vnto, [or admire] doe beg alwaies, [or are alwaies needy & poore.]
+                  
+                     Or thus;
+                  
+                  Which [riches] [they] which admire, do beg, being alwaies couetous.
+               
+               
+                  2 To liue to nature. according to nature [is] the best thing. the best.
+                  
+                     Things necessarie for the life, shall neuer faile thee. The commodities of nature shalbe wanting to thee at no time,
+                  If thou shalt bee content with that which need, [or necessity of nature. present vse] doth require. requireth.
+               
+               
+                  3 Things are to be managed, or performed. Matters [are] to be done by wisdom. by reason.
+                  
+                     When thou art inconsiderate, or not circumspect. vnwarie, neither doest order. gouerne thy matter, [or businesse] with wisdome, & discretion. by reason,
+                  Doe not thou say fortune to bee blind, or do not cō
+                        plaine of blind fortune. call fortune blinde, seeing there is no fortune. which is not [or which is not at all.]
+               
+               
+                  4 The loue of money [ought to be] to vse [or onely for our vse.]
+                  
+                     loue money. Loue a penny: but loue the beholding of it, shew, or glittering. the forme [or sight of it] bee not in loue with the sight of it. sparingly [or not to much.]
+                  Which [sight of money. 
+                     
+                        •
+                     ight] no good man. no holie [man] nor honest [man] catcheth at greedily, or desireth earnestly. desireth greedily to haue.
+               
+               
+                  5 See thou spare not. Thou mayest not spare [thy] wealth, or goods. riches in sicknesse.
+                  
+                     If thou shalt be rich, or full of goods. When thou shalt be wealthy, remember to prouide for the health of thy body. care for [thy] body.
+                  
+                     
+                     A rich man being sick. A sick rich man hath money monyes, but he is not his owne man, or cannot finde in his heart to bestow ought of him selfe. hath not himself, [or the command of himselfe.]
+               
+               
+                  6 The fathers correction. Fatherly correction [is] to bee borne.
+                  
+                     whereas. Sith that, thou learning [or when thou wast a scholar] hast borne or taken gently. hast suffered, sometimes, the sharpe correction. stripes of [thy] master,
+                  Suffer the gouernment of [thy] father, when hee breaketh out into angry speeches, or into chiding. when hee goeth out [or breaketh out] into anger in words.
+               
+               
+                  7 Things certaine, or vndoubted. Sure things and profitable things [are] to be done.
+                  
+                     Imploy thy selfe in such things which may be profitable. Doe [those] things which profit: contrarily. againe remember to auoide. to shun
+                  [Those things] in vvhich there is errour, or doubt, or which are doubtfull. errour is in, neither there is sure hope of the profit of our labour. of [our] labour.
+               
+               
+                  
+                  8 We must giue willingly.
+                  Grant willingly & gladly. freely to [a man] asking, [or to him that asketh] [that] which thou canst giue.
+                  For to haue bin bountifull, or beneficiall. to haue done rightly. well to men deseruing well. to good [men] is a part of gaine, or gainfull. is in part of gaine.
+               
+               
+                  9 A mischiefe. Suspicion is to be searched out, and preuented. is to bee dispatched Straightway. forthwith, [or that which we suspect is to be sought out, and preuented presently.]
+                  
+                     Inquire diligently. Discuss [or lift out] speedily. quickly, what it is which is suspected to thee, [or what thou suspectest.]
+                  For those things do hurt. are wont to hurt, which haue bin neglected. are neglected in the beginning, or first. at the first.
+               
+               
+                  
+                  10 Venus, fleshlie lust, lecherie or carnall loue. Lust [is] to be repressed. to be kept vnder by abstinence.
+                  When the damnable pleasure of Venus, [or fleshly lust] doth catch hold on thee or delight thee, or when thou art trobled with lust. detaine [or hold] thee,
+                  Do not cocker. pamper [thy] appetite: or giue not thy selfe to gluttony, or good chear. gullet [or throate] which is the leman, or paramour. a friend of the belly [or which filleth the belly, and so nourisheth lust.]
+               
+               
+                  11 An euill man [is worse then any wilde beast. is] the worst wilde beast.
+                  VVhen as thou doest think, or determine. doest propound to thy selfe, to be affraide of, or to auoide warily. to feare all liuing creatures. wilde beasts,
+                  I commaund [or counsell thee] to feare a wicked man more then all wilde, or brute beasts one man [or man alone] to be feared more to thee [or of thee] [then all beasts.]
+               
+               
+                  12 Wisedome [is] to be preferred before strength, manhood, or puissance. to fortitude [or valour.]
+                  When very valiant, or mighty. very great strength shall be to thee in thy body, [or if thou be very strong,]
+                  
+                     Make thou [or see that] thou get wisdome. thou be wise: so thou shalt be able to accounted, deemed or 
+                           •
+                        udged. thou maiest be accounted a valiant man.
+               
+               
+                  13 A friend [is] Al. a sureAl. the physitian of the heart. physitian.
+                  
+                     Require helpe. Aske thou aide of thy knowne [friends] if perhaps or peraduenture. bechance thou bein any daunger, distresse or griefe. thou labour [with any euill] [or be in any aduersity.]
+                  Neither any man [is there any better comforter. is] a better physitian, then a faithfull friend.
+               
+               
+                  14 A heart trobled or sorrowfull for sin. A contrite spirit [is] a sacrifice.
+                  Why a beast to be sacrificed. a sacrifice doth die for thee, [or why doth a sacrifice die for thee] sith that thou thy selfe art faulty, or hast offended. guilty [or the offendour?]
+                  It is foolishnesse to hope for deliuerance, saluation, or safety. health by the death of a beast sacrificed. in the death of another thing.
+               
+               
+                  15 A friend [is] to be chosen by [his] behauiour, or qualities. manners.
+                  
+                     When thou seekest to thee. to thy selfe either a fellow. a companion, or a true friend. a faithfull friend,
+                  The fortune [or wealth] of the man is not to be enquired for. to be asked [or sought after] to thee. of thee, thou art not to regard, how rich he is, but how honest. but his life [or conuersation.]
+               
+               
+                  16 Auarice. Couetousnesse [is] to be auoided shunned.
+                  Vse [thy wealth. thy] riches which thou hast sought, or gotten. being gotten: shunne. fly the note, or infamy. name of a couetous man.
+                  
+                     What riches doe profit. 
+                     to what end serue thy goods. What doe riches profit thee, if thou doest abound liuing as a poore man, or neuer hauing enough. being poore still? [or if thou bee poore in thy aboundance.]
+               
+               
+                  17 Pleasure [is] an enemie to fame, [or to a good name.]
+                  If thou desirest couetest to keep an honest name, report, estimation. fame during thy life. whilest thou liuest,
+                  Make thou, [or see thou]
+
+[that] thou shun with all diligence. flie in [thy] minde [those things which are the euill ioyes of life, as gluttony, lechery, and the like. those] ioies, [or pleasures] of life which are euill.
+               
+               
+                  18 Thou shalt not laugh at. mock an old man yea though. euen doating, [or although hee doa
+                        •
+                     e.]
+                  When thou art wise in thy minde, or conceit. in mind, do not thou mock at o old-age.old men.
+                  
+                  For whosoeuer [is] very old. an olde man, he is a childe again, or doateth. a childish wit. sense is in him.
+               
+               
+                  19 Riches [are] vanishing. flowing [or vnstable]: running. Art [is] remaineth stable. perpetuall.
+                  
+                     Get some trade, Art, or Science. Learn somthing: for when wealth goeth away of a sudden. fortune departeth, or is lost. goeth back suddenly,
+                  
+                     Skill abideth. Art doth remaine, and doth not forsake the life of man at any time. euer.
+               
+               
+                  20 Manners [are] knowne by words, or speeches. of words.
+                  
+                     Consider well being silent, or holding thy peace. Thou being silent [or still] mark well all things, what euery one doth speak, [or mark euery
+
+ones talk.]
+                  Speech doth hide. conceale the manners of men: and the same [speech] doth discouer, or bewray. shew [the conditions of men. them.]
+               
+               
+                  21 Art [is] to be helped by vse.
+                  Exercise study [or study still] although thou hast attained the learning, or the Art which thou studiest. gotten Art.
+                  
+                     Euen as. As study doth increase wisdō. care [doth help] the wit, so also the labour, or manuall exercise. hand [or practise] doth help vse [or increase learning.]
+               
+               
+                  22 The contempt of life.
+                  
+                     Care not much for. Thou maiest not care for, much, the times of fate. destinie [or death] to come.
+                  He doth not feare death, who knoweth to make no reckoning of life. to contemne life.
+               
+               
+                  23 [It is] to be learned of vs, and to be taught. We must learne, and we must teach.
+                  Learne thou, but of learned [men.] of the learned: thou thy selfe teach the vnlearned [viz. when thou hast
+
+learned.]
+                  For the knowledge, science, or skill. the doctrine of good things is to bee spread abroad, or made common by teaching others. to be propagated.
+               
+               
+                  24 The moderation, or measure. The manner of drinking.
+                  
+                     Drink so much as thou maiest well, or as will do thee good. Drinke this which thou canst [well] if thou will liue sound [or in health.]
+                  Pleasure is somtimes a cause of many euill and great diseases. of an euill disease to man [or to men.]
+               
+               
+                  25 Do not condemne Thou maiest not condemne [that] which thou hast allowed, or commended. approued.
+                  What thing soeuer thou hast praised before all men. openly, vvhatsoeuer thing thou hast approued,
+                  
+                     Beware. See [that] thou doe not blame not, or finde not fault with. condemne this again through thy inconstancie. by the crime [or through the fault] of lightnesse [or inconstancie.]
+               
+               
+                  26 [Look well about thee, or be thou very considerate. Be thou] circumspect both in prosperity and aduersity. in either fortune [or both estates.]
+                  
+                     
+                     In prosperity beware of, &c. Beware of [or foresee] [those things] which are against thee, in quiet things [or in prosperitie.]
+                  Againe, remember to look for. to hope for better things, when thou art in aduersity. in aduerse things [or in aduersitie.]
+               
+               
+                  27 Wisedome doth increase by studie.
+                  
+                     Do not cease, o
+                           •
+                         giue-ouer. Thou maiest not cease to learne: the knowledge of things wisedome groweth by daily study. doth increase by care.
+                  
+                     Singular wisedome. Rare prudence is giuen by long experience, or study. by a long vse of time.
+               
+               
+                  28 We must praise moderately, or not too much. sparingly.
+                  Praise thou sparingly: for whom thou hast commended. approued oft times,
+                  
+                     Time will declare. One day will shew what a friend he hath beene.
+               
+               
+                  29 Be not ashamed. Let it not shame [thee] to learne.
+                  
+                     Let it not shame [thee] to learne. to be willing to be taught what thou knowest not. [those things] which thou hast not knowne.
+                  
+                     To haue some knowledge. To knowe somthing, is a praise: but to be willing to learn nothing [or to be vnwilling to learne] is a dishonest and shamefull thing. a shame.
+               
+               
+                  30 Wee must vse things soberly. to sobriety.
+                  
+                     Or thus; Strife is ioyned with Venus and Bacchus, and pleasure [is ioyned.] Strife is with carnall loue, or lust. Venus and Bacchus the God of wine, put for wine. Bacchus, [or strife followeth lust and wine] and pleasure is ioyned [to them.]
+                  
+                     Chuse that which. Imbrace in thy minde that* Venus the Goddesse of loue, put for loue. which is daintie [or pleasant] but fly strifes.
+                  
+                     The meaning seemeth to bee this;
+                  
+                  Pleasure is in the vse of lust and wine: but strife & brawing come oft thereof.
+                  Loue that which is honest in them: but flie the euils of them.
+               
+               
+                  31 We must not trust men ouer heauy, or silent and close. sad and still [men.]
+                  
+                     Remember thou to shunne [men] which are commonly sad, & hiding their counsells. cast down in mind and still [or secret.]
+                  Peraduenture the water doth lie hid more deeply, in what part it is the fullest. where the riuer is calme [or where it runneth softly.]
+               
+               
+                  32 We are to compare our estate with the estate of others. Lot [is] to be compared to lot.
+                  When the condition, estate, or meaneness of thy estate. fortune of thy goods. things doth displease thee,
+                  
+                     View, look vpon, or consider. Behold [the fortune] of another [man], in [or by] what danger. difference thou maiest be [or art] worse.
+               
+               
+                  33 Nothing [is] to be gone vnto. to be vndertaken [or attempted] aboue, or past our abilitie. beyond our strength.
+                  
+                     Take that in hand which thou art able to atchieue. Try that thing which thou canst [or art able]: for, to rowe by the sea side. to take [or goe neere vnto] the shoare with the rudders,
+                  Is safer by much, then to hoyse vp saile. to stretch out [or spread abroad] the sayle into the deep [sea] [or into the maine sea.]
+               
+               
+                  
+                  34 We must not contende vniustly. vnequallie with a vpright. iust [man.]
+                  
+                     Striue not. Do not thou contend peruersly, or iniuriously. wickedly against a iust man.
+                  For God doth punish. reuenge alwaies vniust contentions, or wrongs. angers.
+               
+               
+                  35 aswell aduersity as prosperity. Either fortune [or both estates] [is] to be borne equally [or alike.]
+                  
+                     The first of these two verses is corrupted: It would be, Noli m
+                              •
+                           rere querēdo, or dolendo.
+                      
+                     Be not heauie and dumpish. Doe not thou lament by complaining, thy goods being taken away [or when thou hast lost thy goods:]
+                  But reioyce rather if thou chance to haue wealth. if it happen to thee to haue [wealth.]
+               
+               
+                  36 What [is] to be borne, from a friend.
+                  
+                     Or to lose by losses those things which are, is a great loss, &c. It is a great. grieuous losse, to lose by damages, mishaps, or mischances. losses those things which are [or that which a man hath.]
+                  There are as speeches, or hurts done at vnawares, or the like. certaine things, which it becommeth a friend to beare patiently [of a friend.]
+               
+               
+                  
+                  37 Wee must not haue confidence. trust to the time.
+                  
+                     do not promise to thy selfe long life, or that thou shalt liue long. Do not promise long times of life to thy selfe.
+                  
+                     whersoeuer thou art. mors corpus vt vmbra.
+                      Whithersoeuer thou enterest in [or which way so euer thou goest] death doth follow
+                        Al. as the shadow of the body. 
+                     Al. as the shadow [doth follow] the body.
+               
+               
+                  38 With what things God [is] to be appeased. pacified.
+                  Pacifie God with offering or burning incense to him. frank incense [or incense]: Permit, or let the calf growe vp to labour. suffer the calfe [that] he growe vp to the plough [or for the plough.]
+                  Neither thou canst thinke. beleeue to pacifie God, [or any man to appease God] whilst he is sought to be appeased by slaughter. whilst it is sacrificed [to him] by blood, or the killing of beasts for sacrifice. by slaughter, [or by sacrifice made by slaughter.]
+               
+               
+                  39 Hide thy greefe, making no shew of it Dissemble, thou being hurt of mightier [men] [or when thou art hurt of mightier men.]
+                  
+                     Yeeld thou to fortune, when thou art hurt, &c. Thou being hurt giue place [or yeeld] to fortune: yeeld to a mightier. mighty [man.]
+                  
+                     
+                     Al. He who hath been able
+                        Al. He that could yeeld. He that could do thee hurt. to hurt thee, will be able sometimes to profit [thee] [or to do thee good.]
+               
+               
+                  40 Reproue thy selfe. Correct thy selfe.
+                  When thou shalt offend any thing, [or in any thing] thou thy self check, or reprehend correct thy self incontinently. forthwith.
+                  [For] whilst thou doest heal wounds, greefe is a remedy, physick, or cure. a medicine of greefe.
+               
+               
+                  41 A friend being changed [is] not to be dispraised.
+                  Thou shalt neuer dispraise, or speak ill of. condemne a friend who hath bin thy friend long. after a long time.
+                  Hee hath changed his manners: but remember his first loue, or the bond of thy first loue the first pledges [of his loue.]
+               
+               
+                  42 The bestowing of benefits is to bee attended.
+                  Bee thou more thankfull. more kinde in duties, or dutifulness. in offices, by how much thou art more beholden & indebted. more deare [to any;]
+                  Least thou get the name, or incurre the ignominy, or note of. vndergoe the
+
+name which is called an vnthankfull body, or one vpon whom a benefit bestowed is lost. a Loseoffice [or an vnthankfull man.]
+               
+               
+                  43 Be not suspicious. [ Take away suspicion.
+                  
+                     See that] thou take heed. Beware least suspected. being suspicious, [or giuen to suspicion] thou bee a alwaies liuing in feare. wretch [or liue in misery] at all houres, [or perpetually.]
+                  For death is better then life to such men. death is most apt to fearefull [men] and suspicious [men].
+               
+               
+                  44 Compassion, or curtesie. Humanitie [is to bee exercised] towards seruants.
+                  When thou shalt buy bond slaues. seruants for [thine] owne need, necessity, or behoofe. vses,
+                  And callest [them] houshold seruants, slaue
+                           •
+                        . seruants, notwithstanding. neuertheless remember [that they are men, not beasts. them] to be men.
+               
+               
+                  45 Thou maiest not pretermit, let slip, or pass ouer. omit the occasion of a speciall commodity offered. of a commodious matter.
+                  The first occasion is to bee snatched to thee [or catched earnestly of thee] very quickly, or out of hand. the first of all;
+                  Least thou seek those things too late. seek again those things, which thou hast made no reckoning of before. neglected now before.
+               
+               
+                  
+                  46 We must not reioyce at the vntimely of the suddain death, or departure. death [of wicked men.]
+                  Doe not thou reioyce in the suddaine death of euill [men.] They die happy, or they are counted happy in their death. Happy [men] do die, whole life hath bin without crime, or blamelesse. the life of whom is without fault [or blame.]
+               
+               
+                  47 Let a poor man beware of. A poore man let him shun a counterfeit friend. a dissembled friend.
+                  When a wife is to thee [or when thou hast a wife] neither substance [or, but no goods. no substance] and she is suspected for Jewdness, or inconstancy. the fame [of her] doth labour, or she is in an euill name,]
+                  [See that] thou account noysome, or dangerous. the hurtfull name of a friend to bee shunned, [or Beware of those men who haunt thy house vnder pretence of friendship.]
+               
+               
+                  48 Ioyne study to study, or study still. Ioyne study.
+                  
+                     when thou hast gottē much learning. When it chanceth to thee to knowe many things by [thy] study,
+                  Make [or see that] thou learn
+
+manie things, and [that] thou eschew, or take heed of that fault. thou shun to be ignorant, or to be vnwilling to be taught. not to knowe [or to be ouer-proud] to be taught.
+               
+               
+                  49 Shortness. Breuity [is] a help, or profitable. a friend [or friendly] to memory.
+                  
+                     do you wonder that I thus write. Dost thou maruell mee to write verses, [or that I write verses] without any cloquence. in naked [or bare] words?
+                  
+                     Breuity. The shortness because the sentences are short. of the sense [or sentences] hath made mee to tye them together. to ioyne these [verses] by disticks, or by two and two. two and two [or by couples together.]
+               
+            
+            FINIS.
+         
+      
+   
